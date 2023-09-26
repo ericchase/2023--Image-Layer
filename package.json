@@ -6,7 +6,7 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "format": "prettier --plugin-search-dir . --write .",
+    "format": "prettier --write .",
     "serve": "vite preview"
   },
   "license": "MIT",
